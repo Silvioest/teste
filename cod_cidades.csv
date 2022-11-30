@@ -1,0 +1,296 @@
+id_municipio,nome,sigla_uf
+4200051,Abdon Batista,SC
+4200101,Abelardo Luz,SC
+4200200,Agrolândia,SC
+4200309,Agronômica,SC
+4200408,Água Doce,SC
+4200507,Águas de Chapecó,SC
+4200556,Águas Frias,SC
+4200606,Águas Mornas,SC
+4200705,Alfredo Wagner,SC
+4200754,Alto Bela Vista,SC
+4200804,Anchieta,SC
+4200903,Angelina,SC
+4201000,Anita Garibaldi,SC
+4201109,Anitápolis,SC
+4201208,Antônio Carlos,SC
+4201257,Apiúna,SC
+4201273,Arabutã,SC
+4201307,Araquari,SC
+4201406,Araranguá,SC
+4201505,Armazém,SC
+4201604,Arroio Trinta,SC
+4201653,Arvoredo,SC
+4201703,Ascurra,SC
+4201802,Atalanta,SC
+4201901,Aurora,SC
+4201950,Balneário Arroio do Silva,SC
+4202008,Balneário Camboriú,SC
+4202057,Balneário Barra do Sul,SC
+4202073,Balneário Gaivota,SC
+4202081,Bandeirante,SC
+4202099,Barra Bonita,SC
+4202107,Barra Velha,SC
+4202131,Bela Vista do Toldo,SC
+4202156,Belmonte,SC
+4202206,Benedito Novo,SC
+4202305,Biguaçu,SC
+4202404,Blumenau,SC
+4202438,Bocaina do Sul,SC
+4202453,Bombinhas,SC
+4202503,Bom Jardim da Serra,SC
+4202537,Bom Jesus,SC
+4202578,Bom Jesus do Oeste,SC
+4202602,Bom Retiro,SC
+4202701,Botuverá,SC
+4202800,Braço do Norte,SC
+4202859,Braço do Trombudo,SC
+4202875,Brunópolis,SC
+4202909,Brusque,SC
+4203006,Caçador,SC
+4203105,Caibi,SC
+4203154,Calmon,SC
+4203204,Camboriú,SC
+4203253,Capão Alto,SC
+4203303,Campo Alegre,SC
+4203402,Campo Belo do Sul,SC
+4203501,Campo Erê,SC
+4203600,Campos Novos,SC
+4203709,Canelinha,SC
+4203808,Canoinhas,SC
+4203907,Capinzal,SC
+4203956,Capivari de Baixo,SC
+4204004,Catanduvas,SC
+4204103,Caxambu do Sul,SC
+4204152,Celso Ramos,SC
+4204178,Cerro Negro,SC
+4204194,Chapadão do Lageado,SC
+4204202,Chapecó,SC
+4204251,Cocal do Sul,SC
+4204301,Concórdia,SC
+4204350,Cordilheira Alta,SC
+4204400,Coronel Freitas,SC
+4204459,Coronel Martins,SC
+4204509,Corupá,SC
+4204558,Correia Pinto,SC
+4204608,Criciúma,SC
+4204707,Cunha Porã,SC
+4204756,Cunhataí,SC
+4204806,Curitibanos,SC
+4204905,Descanso,SC
+4205001,Dionísio Cerqueira,SC
+4205100,Dona Emma,SC
+4205159,Doutor Pedrinho,SC
+4205175,Entre Rios,SC
+4205191,Ermo,SC
+4205209,Erval Velho,SC
+4205308,Faxinal dos Guedes,SC
+4205357,Flor do Sertão,SC
+4205407,Florianópolis,SC
+4205431,Formosa do Sul,SC
+4205456,Forquilhinha,SC
+4205506,Fraiburgo,SC
+4205555,Frei Rogério,SC
+4205605,Galvão,SC
+4205704,Garopaba,SC
+4205803,Garuva,SC
+4205902,Gaspar,SC
+4206009,Governador Celso Ramos,SC
+4206108,Grão Pará,SC
+4206207,Gravatal,SC
+4206306,Guabiruba,SC
+4206405,Guaraciaba,SC
+4206504,Guaramirim,SC
+4206603,Guarujá do Sul,SC
+4206652,Guatambú,SC
+4206702,Herval d'Oeste,SC
+4206751,Ibiam,SC
+4206801,Ibicaré,SC
+4206900,Ibirama,SC
+4207007,Içara,SC
+4207106,Ilhota,SC
+4207205,Imaruí,SC
+4207304,Imbituba,SC
+4207403,Imbuia,SC
+4207502,Indaial,SC
+4207577,Iomerê,SC
+4207601,Ipira,SC
+4207650,Iporã do Oeste,SC
+4207684,Ipuaçu,SC
+4207700,Ipumirim,SC
+4207759,Iraceminha,SC
+4207809,Irani,SC
+4207858,Irati,SC
+4207908,Irineópolis,SC
+4208005,Itá,SC
+4208104,Itaiópolis,SC
+4208203,Itajaí,SC
+4208302,Itapema,SC
+4208401,Itapiranga,SC
+4208450,Itapoá,SC
+4208500,Ituporanga,SC
+4208609,Jaborá,SC
+4208708,Jacinto Machado,SC
+4208807,Jaguaruna,SC
+4208906,Jaraguá do Sul,SC
+4208955,Jardinópolis,SC
+4209003,Joaçaba,SC
+4209102,Joinville,SC
+4209151,José Boiteux,SC
+4209177,Jupiá,SC
+4209201,Lacerdópolis,SC
+4209300,Lages,SC
+4209409,Laguna,SC
+4209458,Lajeado Grande,SC
+4209508,Laurentino,SC
+4209607,Lauro Muller,SC
+4209706,Lebon Régis,SC
+4209805,Leoberto Leal,SC
+4209854,Lindóia do Sul,SC
+4209904,Lontras,SC
+4210001,Luiz Alves,SC
+4210035,Luzerna,SC
+4210050,Macieira,SC
+4210100,Mafra,SC
+4210209,Major Gercino,SC
+4210308,Major Vieira,SC
+4210407,Maracajá,SC
+4210506,Maravilha,SC
+4210555,Marema,SC
+4210605,Massaranduba,SC
+4210704,Matos Costa,SC
+4210803,Meleiro,SC
+4210852,Mirim Doce,SC
+4210902,Modelo,SC
+4211009,Mondaí,SC
+4211058,Monte Carlo,SC
+4211108,Monte Castelo,SC
+4211207,Morro da Fumaça,SC
+4211256,Morro Grande,SC
+4211306,Navegantes,SC
+4211405,Nova Erechim,SC
+4211454,Nova Itaberaba,SC
+4211504,Nova Trento,SC
+4211603,Nova Veneza,SC
+4211652,Novo Horizonte,SC
+4211702,Orleans,SC
+4211751,Otacílio Costa,SC
+4211801,Ouro,SC
+4211850,Ouro Verde,SC
+4211876,Paial,SC
+4211892,Painel,SC
+4211900,Palhoça,SC
+4212007,Palma Sola,SC
+4212056,Palmeira,SC
+4212106,Palmitos,SC
+4212205,Papanduva,SC
+4212239,Paraíso,SC
+4212254,Passo de Torres,SC
+4212270,Passos Maia,SC
+4212304,Paulo Lopes,SC
+4212403,Pedras Grandes,SC
+4212502,Penha,SC
+4212601,Peritiba,SC
+4212650,Pescaria Brava,SC
+4212700,Petrolândia,SC
+4212809,Balneário Piçarras,SC
+4212908,Pinhalzinho,SC
+4213005,Pinheiro Preto,SC
+4213104,Piratuba,SC
+4213153,Planalto Alegre,SC
+4213203,Pomerode,SC
+4213302,Ponte Alta,SC
+4213351,Ponte Alta do Norte,SC
+4213401,Ponte Serrada,SC
+4213500,Porto Belo,SC
+4213609,Porto União,SC
+4213708,Pouso Redondo,SC
+4213807,Praia Grande,SC
+4213906,Presidente Castello Branco,SC
+4214003,Presidente Getúlio,SC
+4214102,Presidente Nereu,SC
+4214151,Princesa,SC
+4214201,Quilombo,SC
+4214300,Rancho Queimado,SC
+4214409,Rio das Antas,SC
+4214508,Rio do Campo,SC
+4214607,Rio do Oeste,SC
+4214706,Rio dos Cedros,SC
+4214805,Rio do Sul,SC
+4214904,Rio Fortuna,SC
+4215000,Rio Negrinho,SC
+4215059,Rio Rufino,SC
+4215075,Riqueza,SC
+4215109,Rodeio,SC
+4215208,Romelândia,SC
+4215307,Salete,SC
+4215356,Saltinho,SC
+4215406,Salto Veloso,SC
+4215455,Sangão,SC
+4215505,Santa Cecília,SC
+4215554,Santa Helena,SC
+4215604,Santa Rosa de Lima,SC
+4215653,Santa Rosa do Sul,SC
+4215679,Santa Terezinha,SC
+4215687,Santa Terezinha do Progresso,SC
+4215695,Santiago do Sul,SC
+4215703,Santo Amaro da Imperatriz,SC
+4215752,São Bernardino,SC
+4215802,São Bento do Sul,SC
+4215901,São Bonifácio,SC
+4216008,São Carlos,SC
+4216057,São Cristovão do Sul,SC
+4216107,São Domingos,SC
+4216206,São Francisco do Sul,SC
+4216255,São João do Oeste,SC
+4216305,São João Batista,SC
+4216354,São João do Itaperiú,SC
+4216404,São João do Sul,SC
+4216503,São Joaquim,SC
+4216602,São José,SC
+4216701,São José do Cedro,SC
+4216800,São José do Cerrito,SC
+4216909,São Lourenço do Oeste,SC
+4217006,São Ludgero,SC
+4217105,São Martinho,SC
+4217154,São Miguel da Boa Vista,SC
+4217204,São Miguel do Oeste,SC
+4217253,São Pedro de Alcântara,SC
+4217303,Saudades,SC
+4217402,Schroeder,SC
+4217501,Seara,SC
+4217550,Serra Alta,SC
+4217600,Siderópolis,SC
+4217709,Sombrio,SC
+4217758,Sul Brasil,SC
+4217808,Taió,SC
+4217907,Tangará,SC
+4217956,Tigrinhos,SC
+4218004,Tijucas,SC
+4218103,Timbé do Sul,SC
+4218202,Timbó,SC
+4218251,Timbó Grande,SC
+4218301,Três Barras,SC
+4218350,Treviso,SC
+4218400,Treze de Maio,SC
+4218509,Treze Tílias,SC
+4218608,Trombudo Central,SC
+4218707,Tubarão,SC
+4218756,Tunápolis,SC
+4218806,Turvo,SC
+4218855,União do Oeste,SC
+4218905,Urubici,SC
+4218954,Urupema,SC
+4219002,Urussanga,SC
+4219101,Vargeão,SC
+4219150,Vargem,SC
+4219176,Vargem Bonita,SC
+4219200,Vidal Ramos,SC
+4219309,Videira,SC
+4219358,Vitor Meireles,SC
+4219408,Witmarsum,SC
+4219507,Xanxerê,SC
+4219606,Xavantina,SC
+4219705,Xaxim,SC
+4219853,Zortéa,SC
+4220000,Balneário Rincão,SC
